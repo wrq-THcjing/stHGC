@@ -2,7 +2,7 @@
 # stHGC: A Self-Supervised Graph Representation Learnig Framework for Spatial Domain Recognition with Hybrid Graph and Spatial Regularization
 
 ## model
-![Model Architecture](1model.pdf)
+![Model Architecture](1model.png)
 
 ## 1. Environments
 
